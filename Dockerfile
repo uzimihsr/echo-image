@@ -2,4 +2,4 @@ FROM busybox
 
 ENTRYPOINT [ "echo" ]
 
-CMD [ "good morning!!!!" ]
+CMD [ "good morning!" ]
